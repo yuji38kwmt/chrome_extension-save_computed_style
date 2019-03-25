@@ -1,0 +1,2 @@
+# chrome_extension-save_html_style_attribute
+Chrome Extension: 今のスタイルをstyle属性に反映させて、HTMLを保存するツール
