@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <link rel="stylesheet" href="library/selectize.js/css/selectize.default.css">
+      <script src="library/selectize.js/js/jquery.min.js"></script>
+    <script src="library/selectize.js/js/selectize.min.js"></script>
+  </head>
+  <body>
+
+      <button id="saveHtmlButton">Save HTML</button>
+      <div class="control-group">
+        <select id="select-styleProperties" multiple class="demo-default" placeholder="Select style properties..." style="width: 200px;">
+          <option value="">Select style properties...</option>
+          <!-- 一括指定プロパティ CSS -->
+          <option value="background">background</option>
+          <option value="font">font</option>
+          <option value="border">border</option>
+          <option value="margin">margin</option>
+          <option value="padding">padding</option>
+        </select>
+      </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
