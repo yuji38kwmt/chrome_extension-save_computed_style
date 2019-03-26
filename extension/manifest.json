@@ -1,6 +1,6 @@
 {
   "name": "Save computed style",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Set style attribute to computed style, and save html file.",
   "permissions": ["activeTab"],
   "manifest_version": 2,
